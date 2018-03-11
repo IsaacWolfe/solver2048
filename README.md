@@ -1,5 +1,5 @@
-#Solver for 2048
-###**Important** make sure Seleniumm is on the computer being used.
+# Solver for 2048
+### **Important** make sure Seleniumm is on the computer being used.
 To install Selenium on Linux use:
 * **pip3 install selenium**
 * Make sure to download whatever **geckodriver** so that Firefox can be used
